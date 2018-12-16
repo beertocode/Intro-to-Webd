@@ -5,4 +5,4 @@ def gcd(a,b):
         return gcd(b,a%b)
 a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
-print "gcd is:",gcd(a,b)
+print ("gcd is:",gcd(a,b))
