@@ -7,7 +7,7 @@ if n==1:
     print f0
 else:
     while s<n:
-        print f0
+        print (f0)
         f=f0+f1
         
         f0=f1
