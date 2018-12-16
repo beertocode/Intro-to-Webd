@@ -14,5 +14,5 @@ def comma(s):
         return "".join(L)
 m=map(comma,l)
 for i in range(len(m)):
-    print m[i]
+    print (m[i])
         
