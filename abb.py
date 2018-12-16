@@ -12,7 +12,7 @@ for i in range(n):
     l.append(raw_input())
 k=map(abb,l)
 for j in range(len(k)):
-    print k[j]
+    print (k[j])
 
     
     
